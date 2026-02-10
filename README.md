@@ -8,7 +8,7 @@ The project follows a structured molecular biology pipeline to create tools for 
 
 ---
 
-## 📋 Assignment Objectives & Workflow
+## 📋 Project Objectives & Workflow
 The project was executed in the following stages based on the academic requirements:
 
 ### 1. Sequence Acquisition & Analysis
