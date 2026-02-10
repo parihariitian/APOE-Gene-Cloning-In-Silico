@@ -1,0 +1,17 @@
+Enzyme_Name,Sequence_Site,pBluescript_Cuts,pET_Vector_Cuts,APOE_Gene_Cuts,GFP_Gene_Cuts,Cloning_Suitability
+BamHI,GGATCC,1,1,0,0,EXCELLENT (Use this)
+HindIII,AAGCTT,1,1,0,0,EXCELLENT (Use this)
+EcoRI,GAATTC,1,1,0,0,EXCELLENT (Use this)
+XhoI,CTCGAG,1,1,0,0,EXCELLENT (Use this)
+SalI,GTCGAC,1,1,0,0,EXCELLENT (Use this)
+SacI,GAGCTC,1,1,0,0,EXCELLENT (Use this)
+XbaI,TCTAGA,1,1,0,0,EXCELLENT (Use this)
+ClaI,ATCGAT,1,1,0,0,EXCELLENT (Use this)
+SmaI,CCCGGG,1,1,0,0,EXCELLENT (Use this)
+KpnI,GGTACC,1,0,0,0,Good for pBluescript Only
+SpeI,ACTAGT,1,0,0,0,Good for pBluescript Only
+NotI,GCGGCCGC,1,1,1,0,UNSAFE (Cuts APOE Gene)
+PstI,CTGCAG,1,0,5,0,UNSAFE (Cuts APOE Gene)
+NdeI,CATATG,0,1,0,1,UNSAFE (Cuts GFP Gene)
+ApaI,GGGCCC,1,1,3,0,UNSAFE (Cuts APOE Gene)
+SphI,GCATGC,0,1,0,0,Unsuitable (No cut in pBS)
